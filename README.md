@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Guilherme Nascimento
 
-- 🌱 Estudando Java e Python
+- 👨‍💻 Cursando Análise e Desevolvimento de Sistemas
+- 👨‍💻 Estudando Java e Python
 
 <div align="center">
   <a href="https://github.com/guinascimentoo">
