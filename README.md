@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme Nascimento
 
-- 👨‍💻 Cursando Análise e Desevolvimento de Sistemas
+- 📚 Cursando Análise e Desevolvimento de Sistemas
 - 👨‍💻 Estudando Java e Python
 
 <div align="center">
