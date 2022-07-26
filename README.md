@@ -1,4 +1,4 @@
-### Olá! Eu sou o Guilherme Nascimento
+### Hi! I'm Guilherme Nascimento
 
 - 📚 Cursando Análise e Desevolvimento de Sistemas
 - 👨‍💻 Estudando Java
