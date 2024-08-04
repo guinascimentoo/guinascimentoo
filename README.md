@@ -1,16 +1,12 @@
-## Hi there 👋
+## Eai, meu nome é Guilherme Nascimento, bem vindo ao meu perfil GitHub 👋
 
-<!--
-**guinascimentoo/guinascimentoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim:
+- 🎓 Sou formado em Técnico em Desenvolvimento de Sistemas na ETEC(Ensino Técnico) e Análise e Desenvolvimento de Sistemas na UNISO(Universidade de Sorocaba)
+- 🙋🏻‍♂️ Apaixonado por: 🏋🏻 musculação, 🏃🏻‍♂️ corrida, 📖 leitura, 📚 estudos em programação, investimentos, desenvolvimento pessoal e geeks
+- 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/guinascimentoo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinascimentoo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guinascimentoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
