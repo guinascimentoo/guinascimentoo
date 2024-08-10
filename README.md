@@ -1,7 +1,7 @@
 ## Eai, meu nome é Guilherme Nascimento, bem vindo ao meu perfil GitHub 👋
 
 ## Sobre mim:
-- 🎓 *Graduações:* Técnico em Desenvolvimento de Sistemas na <a href="https://www.etecsr.com.br">ETEC</a>(Ensino Técnico) e Análise e Desenvolvimento de Sistemas na <a href="uniso.br">UNISO</a>(Universidade de Sorocaba)
+- 🎓 *Graduações:* Técnico em Desenvolvimento de Sistemas na <a href="https://www.etecsr.com.br">ETEC</a>(Ensino Técnico) e Análise e Desenvolvimento de Sistemas na <a href="https://uniso.br">UNISO</a>(Universidade de Sorocaba)
 - 🙋🏻‍♂️ *Apaixonado por:* **musculação, corrida, leitura, programação, investimentos, desenvolvimento pessoal e geeks**
 - 🖥️ *Atualmente mais focado em:*
   <div style="display: inline">
