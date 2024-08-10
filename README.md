@@ -1,9 +1,27 @@
 ## Eai, meu nome é Guilherme Nascimento, bem vindo ao meu perfil GitHub 👋
 
 ## Sobre mim:
-- 🎓 Sou formado em Técnico em Desenvolvimento de Sistemas na ETEC(Ensino Técnico) e Análise e Desenvolvimento de Sistemas na UNISO(Universidade de Sorocaba)
-- 🙋🏻‍♂️ Apaixonado por: 🏋🏻 musculação, 🏃🏻‍♂️ corrida, 📖 leitura, 📚 estudos em programação, investimentos, desenvolvimento pessoal e geeks
-- 
+- 🎓 *Graduações:* Técnico em Desenvolvimento de Sistemas na ETEC(Ensino Técnico) e Análise e Desenvolvimento de Sistemas na UNISO(Universidade de Sorocaba)
+- 🙋🏻‍♂️ *Apaixonado por:* **musculação, corrida, leitura, estudos em programação, investimentos, desenvolvimento pessoal e geeks**
+- 🖥️ *Atualmente mais focado em:*
+  <div style="display: inline">
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
+  </div>
+- 🛠️ *Ferramentas:*
+  <div style="display: inline">
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+  </div>
+- 📱 *Redes sociais:*
+  <div style="display: inline">
+    <a href="https://www.linkedin.com/in/guilhermenascimeento/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="guilherme_nascimeento18@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  </div>
 
 <div>
 <a href="https://github.com/guinascimentoo">
