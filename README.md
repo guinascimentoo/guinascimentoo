@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 - 🎓 *Graduações:* Técnico em Desenvolvimento de Sistemas na ETEC(Ensino Técnico) e Análise e Desenvolvimento de Sistemas na UNISO(Universidade de Sorocaba)
-- 🙋🏻‍♂️ *Apaixonado por:* **musculação, corrida, leitura, estudos em programação, investimentos, desenvolvimento pessoal e geeks**
+- 🙋🏻‍♂️ *Apaixonado por:* **musculação, corrida, leitura, programação, investimentos, desenvolvimento pessoal e geeks**
 - 🖥️ *Atualmente mais focado em:*
   <div style="display: inline">
     <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
