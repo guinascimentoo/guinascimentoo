@@ -26,6 +26,6 @@
 
 <div>
 <a href="https://github.com/guinascimentoo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinascimentoo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinascimentoo&layout=compact&langs_count=7&theme=blue-green"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guinascimentoo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 </div>
